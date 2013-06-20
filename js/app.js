@@ -1,1 +1,1 @@
-ko.applyBindings(new SimpleListModel(["Alpha", "Beta", "Gamma"]));
+ko.applyBindings(new WineModel(["Merlot", "White", "Red"]));

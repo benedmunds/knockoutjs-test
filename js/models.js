@@ -1,4 +1,4 @@
-var SimpleListModel = function(items) {
+var WineModel = function(items) {
     this.items = ko.observableArray(items);
     this.itemToAdd = ko.observable("");
     this.addItem = function() {
