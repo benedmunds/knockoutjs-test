@@ -1,0 +1,1 @@
+ko.applyBindings(new SimpleListModel(["Alpha", "Beta", "Gamma"]));
